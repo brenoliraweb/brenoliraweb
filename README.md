@@ -37,9 +37,8 @@
 
 > Também desenvolvo projetos para clientes (escritórios de advocacia, clínicas e lojas). Esses códigos são privados — veja os resultados em [brenolira.dev](https://brenolira.dev).
 
-## Estatísticas
+## Linguagens mais usadas
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=brenoliraweb&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoliraweb&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais usadas">
 </p>
