@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://brenolira.vercel.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-brenolira.vercel.app-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio"></a>
+  <a href="https://brenolira.dev/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-brenolira.vercel.app-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio"></a>
   <a href="https://www.instagram.com/brenolira.dev/"><img src="https://img.shields.io/badge/Instagram-@brenolira.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="mailto:dev.breno.lira@gmail.com"><img src="https://img.shields.io/badge/E--mail-dev.breno.lira@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
 </p>
